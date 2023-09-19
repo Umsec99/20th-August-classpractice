@@ -1,2 +1,3 @@
 # 20th-August-classpractice
-this is in class coding practice
+In class coding practice
+About basic data types -- list tuples sets dict
